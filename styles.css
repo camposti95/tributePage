@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+#main {
+    text-align: center;
+    color: rgb(58, 58, 58);
+    background-color: rgb(232, 232, 232);
+    margin-top: 2rem;
+}
+h1 {
+    padding-top: 2rem;
+    font-size: 40px;
+}
+#img-div {
+    background-color: white;
+    margin: 1rem;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding: 0.5rem;
+}
+#img-caption {
+    padding: 0.5rem 0;
+}
+.main-content {
+    padding-right: 2rem;
+}
+.years {
+    text-align: left;
+}
+.years li {
+    padding-bottom: 1rem;
+}
+.list-year {
+    display: inline-block;
+    font-weight: bolder;
+}
+.tribute-footer {
+    font-weight: 700;
+    font-size: bold;
+    margin: 0 2rem;
+}
+#tribute-info {
+    font-weight: bolder;
+    font-size: 18px;
+}
